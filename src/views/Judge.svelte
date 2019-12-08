@@ -13,6 +13,7 @@
 	let responses = [];
 
 	onMount(() => {
+		console.log('Judge component mounted')
 		socket.emit('requestGameData');
 	})
 
