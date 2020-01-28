@@ -72,6 +72,12 @@
 	})
 </script>
 
+<style type="text/css">
+	h2 {
+		color: #37C7E2;
+	}
+</style>
+
 <h1>Start</h1>
 {#if gameID !== ''}
 	{#if nicknameAccepted}

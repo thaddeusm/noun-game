@@ -13,8 +13,22 @@ html, body {
 	width: 100%;
 	height: 100%;
 	box-sizing: content-box;
+	background-color: #5E5E5E;
+	color: #FB4C47;
 }
 
 body {
 	font-family: 'Rubik';
+}
+
+button {
+	border-radius: 12px;
+	margin: 4px 2px;
+	padding: 14px 28px;
+	background: #;
+	background: #00D3FF;
+}
+
+input {
+	background: #00D3FF;
 }
